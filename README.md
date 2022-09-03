@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @hemaraavi
-- 👀 I’m interested in coding ,movies
-- 🌱 I’m currently learning js
 
 
 <!---
